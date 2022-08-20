@@ -3,7 +3,7 @@
 WORK IN PROGRESS
 
 <p align="center">
-  <img src="https://i.postimg.cc/vQgJfjyQ/library.png" />
+  <img src="https://i.postimg.cc/50JKMsjG/library.png" width=""/>
 </p>
 
 Installation Instructions
