@@ -18,12 +18,10 @@ Download And Run (Install In A Folder To Keep): https://github.com/PhantomGamers
 Once you have done that go to SFP settings and make sure Patcher and Scanner categories have everything checked
 Make sure Check for updates on startup and start minimized are enabled as welL.
 
-2. Now Download My Installer Here: 
+2. Now Download My Installer Here: https://github.com/JoTechOfficial/FluentForSteamLibrarySkin/releases/
+Now close steam if it's open and then open Installer and follow steps to install in your steam directory (Default is C:\Program Files (x86)\Steam)
 
-(default is: C:\Users\(YourName)\AppData\Roaming\BetterDiscord\themes)
-
-2. Go into discord and scroll down until you see Themes, once there turn on FluentForDiscord
-3. Enjoy your new theme
+3. Open Steam and Enjoy!
 
 Install These Fonts (Only For Windows 7-10):
 -----
