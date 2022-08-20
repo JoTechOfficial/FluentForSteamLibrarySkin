@@ -31,6 +31,8 @@ Segoe UI Variable Font [Install](https://jotechofficial.github.io/FluentForDisco
 
 Credits
 -----
+Inspiration From: https://github.com/purogamer/Fluent-for-Steam
+
 Base Code From: https://github.com/AikoMidori/steam-library
 
 Steam Patcher By: https://github.com/PhantomGamers/SFP
