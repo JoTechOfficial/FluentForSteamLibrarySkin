@@ -12,14 +12,14 @@ WORK IN PROGRESS
 
 Installation Instructions
 -----
-Download And Run (Install In A Folder To Keep): https://github.com/PhantomGamers/SFP/releases
+Download (the windows version): https://github.com/PhantomGamers/SFP/releases
 
-1. Once SFP is extracted with 7zip, scan and patch.
+1. Once you have SFP extract it with 7zip into a folder to keep, now open SFP_UI, once opened click scan and patch.
 Once you have done that go to SFP settings and make sure Patcher and Scanner categories have everything checked
-Make sure Check for updates on startup and start minimized are enabled as welL.
+Make sure "Check for updates on startup" and "start minimized" are enabled as well. (This is for when steam updates sfb can patch it again)
 
-2. Now Download My Installer Here: https://github.com/JoTechOfficial/FluentForSteamLibrarySkin/releases/
-Now close steam if it's open and then open Installer and follow steps to install in your steam directory (Default is C:\Program Files (x86)\Steam)
+2. Now Download My Installer Here (.exe file): https://github.com/JoTechOfficial/FluentForSteamLibrarySkin/releases/
+Close steam if it's open and then open Installer and follow steps to install in your steam directory (Default is C:\Program Files (x86)\Steam)
 
 3. Open Steam and Enjoy!
 
