@@ -1,0 +1,60 @@
+
+Processing C:\Users\JoTech\Desktop\fluentforsteamlibraryinstallerfiles\fluentforsteamlibrary.ci 8/20/2022 10:47:59 AM
+Log file: C:\Users\JoTech\Desktop\fluentforsteamlibraryinstallerfiles\fluentforsteamlibrary.log 
+Generating Sources... 
+Compiling Gentee Sources... 
+Build setup file: C:\Users\JoTech\Desktop\fluentforsteamlibrary(v0.8).exe 
+Adding temporary file(s) to EXE 
+C:\Users\JoTech\AppData\Local\Temp\gentee01\english.lng 8/20/2022 10:48:01 AM 3426  46.11%
+C:\Users\JoTech\AppData\Local\Temp\gentee01\arabic.lng 8/20/2022 10:48:01 AM 4412  44.60%
+C:\Users\JoTech\AppData\Local\Temp\gentee01\armenian.lng 8/20/2022 10:48:01 AM 5307  40.92%
+C:\Users\JoTech\AppData\Local\Temp\gentee01\basque.lng 8/20/2022 10:48:01 AM 3996  43.64%
+C:\Users\JoTech\AppData\Local\Temp\gentee01\bulgarian.lng 8/20/2022 10:48:01 AM 5445  40.62%
+C:\Users\JoTech\AppData\Local\Temp\gentee01\catalan.lng 8/20/2022 10:48:01 AM 3758  46.43%
+C:\Users\JoTech\AppData\Local\Temp\gentee01\chinese_simplified.lng 8/20/2022 10:48:01 AM 3288  53.07%
+C:\Users\JoTech\AppData\Local\Temp\gentee01\chinese_traditional.lng 8/20/2022 10:48:01 AM 3246  54.31%
+C:\Users\JoTech\AppData\Local\Temp\gentee01\croatian.lng 8/20/2022 10:48:01 AM 3710  48.03%
+C:\Users\JoTech\AppData\Local\Temp\gentee01\czech.lng 8/20/2022 10:48:01 AM 3605  46.01%
+C:\Users\JoTech\AppData\Local\Temp\gentee01\danish.lng 8/20/2022 10:48:01 AM 3519  47.88%
+C:\Users\JoTech\AppData\Local\Temp\gentee01\dutch.lng 8/20/2022 10:48:01 AM 3654  47.12%
+C:\Users\JoTech\AppData\Local\Temp\gentee01\filipino.lng 8/20/2022 10:48:01 AM 4033  45.45%
+C:\Users\JoTech\AppData\Local\Temp\gentee01\finnish.lng 8/20/2022 10:48:01 AM 3543  47.21%
+C:\Users\JoTech\AppData\Local\Temp\gentee01\french.lng 8/20/2022 10:48:01 AM 3957  44.35%
+C:\Users\JoTech\AppData\Local\Temp\gentee01\german.lng 8/20/2022 10:48:01 AM 3982  45.55%
+C:\Users\JoTech\AppData\Local\Temp\gentee01\greek.lng 8/20/2022 10:48:01 AM 5928  40.85%
+C:\Users\JoTech\AppData\Local\Temp\gentee01\hebrew.lng 8/20/2022 10:48:01 AM 4289  43.76%
+C:\Users\JoTech\AppData\Local\Temp\gentee01\hungarian.lng 8/20/2022 10:48:01 AM 3852  47.76%
+C:\Users\JoTech\AppData\Local\Temp\gentee01\indonesian.lng 8/20/2022 10:48:01 AM 3482  45.77%
+C:\Users\JoTech\AppData\Local\Temp\gentee01\italian.lng 8/20/2022 10:48:01 AM 3865  44.52%
+C:\Users\JoTech\AppData\Local\Temp\gentee01\japanese.lng 8/20/2022 10:48:01 AM 4963  42.65%
+C:\Users\JoTech\AppData\Local\Temp\gentee01\lithuanian.lng 8/20/2022 10:48:01 AM 3444  48.49%
+C:\Users\JoTech\AppData\Local\Temp\gentee01\polish.lng 8/20/2022 10:48:01 AM 3587  48.70%
+C:\Users\JoTech\AppData\Local\Temp\gentee01\portuguese_br.lng 8/20/2022 10:48:01 AM 3712  46.82%
+C:\Users\JoTech\AppData\Local\Temp\gentee01\portuguese_pt.lng 8/20/2022 10:48:01 AM 3641  47.12%
+C:\Users\JoTech\AppData\Local\Temp\gentee01\romanian.lng 8/20/2022 10:48:01 AM 3407  46.40%
+C:\Users\JoTech\AppData\Local\Temp\gentee01\russian.lng 8/20/2022 10:48:01 AM 5441  41.04%
+C:\Users\JoTech\AppData\Local\Temp\gentee01\serbian.lng 8/20/2022 10:48:01 AM 5508  39.70%
+C:\Users\JoTech\AppData\Local\Temp\gentee01\serbian_lat.lng 8/20/2022 10:48:01 AM 3548  46.58%
+C:\Users\JoTech\AppData\Local\Temp\gentee01\slovak.lng 8/20/2022 10:48:01 AM 3690  48.13%
+C:\Users\JoTech\AppData\Local\Temp\gentee01\slovenian.lng 8/20/2022 10:48:01 AM 3753  48.04%
+C:\Users\JoTech\AppData\Local\Temp\gentee01\spanish.lng 8/20/2022 10:48:01 AM 3843  44.91%
+C:\Users\JoTech\AppData\Local\Temp\gentee01\swedish.lng 8/20/2022 10:48:01 AM 3408  46.68%
+C:\Users\JoTech\AppData\Local\Temp\gentee01\turkish.lng 8/20/2022 10:48:01 AM 3562  46.93%
+C:\Users\JoTech\AppData\Local\Temp\gentee01\ukrainian.lng 8/20/2022 10:48:01 AM 5154  41.90%
+C:\Users\JoTech\AppData\Local\Temp\gentee01\uzbek.lng 8/20/2022 10:48:01 AM 3347  46.96%
+C:\Users\JoTech\AppData\Local\Temp\gentee01\valencian.lng 8/20/2022 10:48:01 AM 3526  46.96%
+C:\Program Files (x86)\CreateInstall\res\leftimg\install\install.bmp 3/20/2018 11:19:53 AM 9920  23.57%
+C:\Users\JoTech\Desktop\fluentforsteaminstallerfiles\Wizard_1.bmp 7/16/2022 12:59:48 PM 10726  89.85%
+C:\Users\JoTech\Desktop\fluentforsteaminstallerfiles\fluentinstalldisc.jpg 7/17/2022 5:15:23 AM 8203  94.42%
+Build setup file: C:\Users\JoTech\AppData\Local\Temp\gentee01\uninstall.exe 
+Adding uninstall file(s) to EXE 
+Getting list of files 
+Packing files... 
+================================ 
+C:\Users\JoTech\Desktop\libraryskinfluent\clientui\friends.custom.css 8/20/2022 1:44:14 AM 1416714  18.08%
+C:\Users\JoTech\Desktop\libraryskinfluent\steamui\config.css 8/20/2022 7:22:27 AM 7852  31.54%
+C:\Users\JoTech\Desktop\libraryskinfluent\steamui\libraryroot.custom.css 6/12/2022 12:27:00 PM 662  31.72%
+================================ 
+All files: 3 [ 1391KB => 252KB ] 
+File Size C:\Users\JoTech\Desktop\fluentforsteamlibrary(v0.8).exe: 478 KB 
+Finish Successful 8/20/2022 10:48:01 AM
