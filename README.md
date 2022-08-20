@@ -3,14 +3,22 @@
 WORK IN PROGRESS
 
 <p align="center">
-  <img src="https://i.postimg.cc/50JKMsjG/library.png">
+  <img src="https://i.ibb.co/CsGqM3Z/library1.png">
+</p>
+
+<p align="center">
+  <img src="https://i.ibb.co/yFxhmwY/Game.png">
 </p>
 
 Installation Instructions
 -----
-Install: https://betterdiscord.app/
+Download And Run (Install In A Folder To Keep): https://github.com/PhantomGamers/SFP/releases
 
-1. Once betterdiscord is installed, install fluent for discord via exe provided in your themes folder 
+1. Once SFP is extracted with 7zip, scan and patch.
+Once you have done that go to SFP settings and make sure Patcher and Scanner categories have everything checked
+Make sure Check for updates on startup and start minimized are enabled as welL.
+
+2. Now Download My Installer Here: 
 
 (default is: C:\Users\(YourName)\AppData\Roaming\BetterDiscord\themes)
 
@@ -25,4 +33,4 @@ Credits
 -----
 Base Code From: https://github.com/AikoMidori/steam-library
 
-Steam Patcher By: https://github.com/AikoMidori/steam-library
+Steam Patcher By: https://github.com/PhantomGamers/SFP
