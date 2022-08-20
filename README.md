@@ -1,7 +1,5 @@
 # <img src="https://i.postimg.cc/L8hTdrDh/fluent-1.png" width="47" height="32"> FluentForSteamLibrarySkin 
 
-WORK IN PROGRESS
-
 <p align="center">
   <img src="https://i.ibb.co/CsGqM3Z/library1.png">
 </p>
