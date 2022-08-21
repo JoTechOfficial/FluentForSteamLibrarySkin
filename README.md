@@ -21,6 +21,10 @@ Close steam if it's open and then open Installer and follow steps to install in 
 
 3. Open Steam and Enjoy!
 
+Troubleshooting
+-----
+If steam updates and library is not applied reopen SFP_UI
+
 Install These Fonts (Only For Windows 7-10):
 -----
 Segoe UI Variable Font [Install](https://jotechofficial.github.io/FluentForDiscord/Fonts/SegoeUI-VF.ttf)
