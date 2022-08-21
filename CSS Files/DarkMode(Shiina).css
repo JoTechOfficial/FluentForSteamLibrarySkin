@@ -1,0 +1,29 @@
+/* ===== DO NOT CHANGE THIS ===== */
+@import url('https://aikomidori.github.io/steam-friends-skin/css/Friendlist.css');
+@import url('https://aikomidori.github.io/steam-friends-skin/css/ChatWindow.css');
+@import url('https://aikomidori.github.io/steam-friends-skin/css/Settings.css');
+@import url('https://aikomidori.github.io/steam-friends-skin/css/Scrollbar.css');
+*{box-shadow: none !important;
+text-shadow: none !important;}    
+
+:root {
+
+    /* Dark Mode (Default) */
+
+    --header: 21, 21, 21;
+    --friendlist: 30, 30, 31;
+    --footer: 21, 21, 21;
+    --scrollbar: 21, 21, 21;
+    --unreadmessage: 0 ,255, 0;
+    --text: 255, 255, 255;
+    --listtext: 255, 255, 255;
+    --icon: 255, 255, 255;
+    --caption: 255, 255, 255;
+    --captionhover: 30, 30, 31;
+    --online: 93, 178, 254;
+    --snooze: 250, 166, 26;
+    --offline: 145, 145, 145;
+    --ingame: 130, 186, 0;
+    --selfstatus: 93, 178, 254;
+    --hoverstatus: 21, 21, 21, 0.5;
+}
