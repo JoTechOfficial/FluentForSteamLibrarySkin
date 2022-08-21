@@ -41,6 +41,7 @@ Inspiration From: https://github.com/purogamer/Fluent-for-Steam
 
 Base Library Skin Code From: https://github.com/AikoMidori/steam-library
 
-Base Friend List Code From: https://github.com/LaserFlash/steam-chat-skin and https://laserflash.tk/steam-chat-skin-website/)
+Base Friend List Code From: https://github.com/LaserFlash/steam-chat-skin
+https://laserflash.tk/steam-chat-skin-website/)
 
 Steam Patcher By: https://github.com/PhantomGamers/SFP
