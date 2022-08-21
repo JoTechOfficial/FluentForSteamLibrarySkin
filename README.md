@@ -23,7 +23,7 @@ Close steam if it's open and then open Installer and follow steps to install in 
 
 Troubleshooting
 -----
-If steam updates and library is not applied reopen SFP_UI
+If steam updates and library not is not applied reopen SFP_UI
 
 Install These Fonts (Only For Windows 7-10):
 -----
