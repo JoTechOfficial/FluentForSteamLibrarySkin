@@ -13,7 +13,7 @@ Installation Instructions
 Download (the windows version): https://github.com/PhantomGamers/SFP/releases
 
 1. Once you have SFP extract it with 7zip into a folder to keep, now open SFP_UI, once opened click scan and patch.
-Now go to SFP settings and make sure Patcher and Scanner categories have everything checked
+Now go to SFP settings and make sure Patcher and Scanner categories have everything checked.
 Make sure "Check for updates on startup" and "start minimized" are enabled as well. (This is for when steam updates sfb can patch it again)
 
 2. Download My Installer Here (.exe file): https://github.com/JoTechOfficial/FluentForSteamLibrarySkin/releases/
