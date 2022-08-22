@@ -23,13 +23,13 @@ Close steam if it's open, then open Installer and follow steps to install in you
 
 How To Uninstall
 -----
-Go to steam folder then clientui and delete friends.custom.css
-Go to steam folder then steamui and delete config.css and libraryroot.custom.css
+- Go to steam folder then clientui and delete friends.custom.css
+- Go to steam folder then steamui and delete config.css and libraryroot.custom.css
 
 Troubleshooting
 -----
-If steam updates and library not is not applied reopen SFP_UI
-If you uninstalled and things are not visible or buggy then open SFP_UI and click reset
+- If steam updates and library not is not applied reopen SFP_UI
+- If you uninstalled and things are not visible or buggy then open SFP_UI and click reset
 
 Install These Fonts (Only For Windows 7-10):
 -----
