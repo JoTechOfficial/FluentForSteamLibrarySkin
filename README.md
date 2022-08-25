@@ -28,8 +28,8 @@ How To Uninstall
 
 Troubleshooting
 -----
-- If steam updates and library not is not applied reopen SFP_UI
-- If you uninstalled and things are not visible or buggy then open SFP_UI and click Reset Steam
+- If steam updates and library/friends list skin is not applied reopen SFP_UI and Click Patch
+- If you uninstalled or things are not visible or buggy then open SFP_UI and click Reset Steam
 
 Install These Fonts (Only For Windows 7-10):
 -----
